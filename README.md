@@ -1,6 +1,6 @@
 # 👋 Vawn Thais
 
-Welcome to my GitHub profile! I'm a developer passionate about learning and sharing knowledge in software development.
+Welcome to my GitHub profile! I'm a developer passionate about learning and sharing knowledge in data development.
 
 ## 🎯 About Me
 
